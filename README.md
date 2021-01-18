@@ -9,7 +9,7 @@
 
 
 
-### Desafio de Banco de dados e Upload de arquivos
+### Desafio de Front-end conectado ao Back-end
 
 ## :rocket: Sobre o desafio
 
